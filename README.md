@@ -6,9 +6,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/redriel/medievalica">
-    <img src="images/rules.png" alt="Rules" width="80" height="80">
-  </a>
 
   <h3 align="center">Medievalica</h3>
 
@@ -43,10 +40,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+[![Product Name Screen Shot][product-screenshot]](images/rules.png)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-This is a passion project 
+This is a passion project about Game Theory and card games.
+Given a game with simple rules, is it possible to find a deterministic strategy that can beat every other strategy?
+And what strategies other people may create?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,7 +52,9 @@ This is a passion project
 ## Getting Started
 
 Rules of the games are as follows: you and your opponent start with 8 cards in hand.
+
 > 5 Clerics, 2 Knights and 1 Emperor
+
 You play one card per round, for 5 rounds.
 Each time, the players get points according to the rules:
 
@@ -84,8 +84,6 @@ This project relies on Python 3 and nothing else.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone this repo
    ```sh
    git clone https://github.com/redriel/medievalica.git
@@ -104,7 +102,9 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Usage
 
 You can freely edit this file:
+
 > lib/strategies/yourStrategy.py
+
 You are encouraged to change the name of the file and implement your strategy as you like.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
