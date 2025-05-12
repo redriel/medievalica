@@ -74,11 +74,11 @@ This will include facing your own strategy and a random strategy. You may devise
 
 You will have access to this data for creating you own strategy:
 
-1. myHand .............. list of cards in your hand
-2. myScore ............. your current score
-3. currentRound ........ current round (starts at 1 and goes up to 5)
-4. myStack ............. list of cards you played (in chronological order, starts empty)
-5. opponentStack ....... list of cards your opponent played (in chronological order, starts empty)
+1. **myHand**           list of cards in your hand
+2. **myScore**          your current score
+3. **currentRound**     current round (starts at 1 and goes up to 5)
+4. **myStack**          list of cards you played (in chronological order, starts empty)
+5. **opponentStack**    list of cards your opponent played (in chronological order, starts empty)
 
 ### Prerequisites
 
