@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <a href="https://github.com/redriel/medievalica">
-    <img src="images/rules.png" alt="Rules" width=50% height=50%>
+    <img src="images/rules.png" alt="Rules">
 </a>
 
 This is a passion project about Game Theory and card games.
@@ -60,10 +60,10 @@ Rules of the games are as follows: you and your opponent start with 8 cards in h
 You play one card per round, for 5 rounds.
 Each time, the players get points according to the rules:
 
- 1. Cleric v Cleric ......... 1 point to each player
- 2. Knight v Cleric ........ 2 points to the Knight player, 0 to the Cleric player
- 3. Emperor v Knight ...... 4 points to the Emperor player, 0 to the Knight player
- 4. Other combinations ..... 0 points to each player
+ 1. **Cleric v Cleric**     1 point to each player
+ 2. **Knight v Cleric**     2 points to the Knight player, 0 to the Cleric player
+ 3. **Emperor v Knight**    4 points to the Emperor player, 0 to the Knight player
+ 4. **Other combinations**  0 points to each player
 
 Your goal is to get as many points as possible. You have to come up with a strategy that can perform well againts all kinds of opponents.
 This will include facing your own strategy and a random strategy. You may devise your strategy as you like, but keep in mind:
