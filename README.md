@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <a href="https://github.com/redriel/medievalica">
-    <img src="images/rules.png" alt="Rules" width="1280" height="600">
+    <img src="images/rules.png" alt="Rules" width=50% height=50%>
 </a>
 
 This is a passion project about Game Theory and card games.
