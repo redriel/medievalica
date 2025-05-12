@@ -1,0 +1,5 @@
+*.pyc
+lib/strategies/cavalry.py
+lib/strategies/mastrat.py
+lib/strategies/notTheChurch.py
+lib/strategies/mirror_1.py
