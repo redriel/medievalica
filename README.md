@@ -40,7 +40,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](images/rules.png)
+<a href="https://github.com/redriel/medievalica">
+    <img src="images/rules.png" alt="Rules" width="1280" height="853">
+</a>
 
 This is a passion project about Game Theory and card games.
 Given a game with simple rules, is it possible to find a deterministic strategy that can beat every other strategy?
